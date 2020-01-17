@@ -6,7 +6,8 @@ Spring 동작 원리
     https://github.com/KimBitnari/Spring/tree/master/Spring2/src/main/java/com/spring/sp
   
   - 사진<br>
-    https://github.com/KimBitnari/Spring/blob/master/Spring2/capture1.PNG
+    https://github.com/KimBitnari/Spring/blob/master/Spring2/capture1.PNG<br>
+    https://github.com/KimBitnari/Spring/blob/master/Spring2/capture2.PNG
 
 <hr>
 
