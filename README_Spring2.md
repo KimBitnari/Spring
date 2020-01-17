@@ -10,7 +10,7 @@ Spring 동작 원리
 
 <hr>
 
-spring controller return type
+Spring Controller Return Type
   - 첫번째 링크
     - void<br>
       <b>java file</b><br>
