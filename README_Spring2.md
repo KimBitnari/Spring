@@ -11,7 +11,7 @@ Spring 동작 원리
 <hr>
 
 spring controller return type
-  첫번째 링크
+  - 첫번째 링크
     - void
       java file: https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex01/controller/SampleController1.java
       jsp files: https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/ex01/doA.jsp
@@ -27,7 +27,7 @@ spring controller return type
                   https://github.com/KimBitnari/Spring/tree/master/Spring2/src/main/java/com/spring/sp/ex01/vo
       jsp file: https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/ex01/data.jsp
   
-  두번째 링크
+  - 두번째 링크
     - ModelAndView
       java file: https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex02/controller/HelloController.java
       jsp file: https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/hello.jsp
