@@ -28,6 +28,8 @@ Spring Controller Return Type
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex01/controller/SampleController2.java<br>
       <b>jsp file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/result.jsp<br>
+      <b>ex01/doC</b>
+      <b>ex01/doC?msg=Hellow 입력하면 "메세지: Hello" 출력</b>
 
     - string: data를 전달할 경우<br>
       <b>java files</b><br>
