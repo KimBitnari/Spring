@@ -26,7 +26,7 @@ spring controller return type
       <b>jsp file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/result.jsp<br>
 
-    - string: data를 전달할 경우
+    - string: data를 전달할 경우<br>
       <b>java files</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex01/controller/SampleController3.java<br>
         https://github.com/KimBitnari/Spring/tree/master/Spring2/src/main/java/com/spring/sp/ex01/vo<br>
@@ -34,18 +34,18 @@ spring controller return type
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/ex01/data.jsp<br>
   
   - 두번째 링크
-    - ModelAndView
+    - ModelAndView<br>
       <b>java file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex02/controller/HelloController.java<br>
       <b>jsp file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/hello.jsp<br>
       
-    - String
+    - String<br>
       <b>java file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex02/controller/HelloController2.java<br>
       <b>jsp file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/webapp/WEB-INF/views/hello2.jsp<br>
       
-    - @ResponseBody
+    - @ResponseBody<br>
       <b>java file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex02/controller/HelloController3.java
