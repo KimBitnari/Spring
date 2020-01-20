@@ -54,3 +54,11 @@ Spring Controller Return Type
     - @ResponseBody<br>
       <b>java file</b><br>
         https://github.com/KimBitnari/Spring/blob/master/Spring2/src/main/java/com/spring/sp/ex02/controller/HelloController3.java
+        
+<br>
+<hr>
+<br>
+
+spring controller parameter
+  - 정리<br>
+    https://dynalist.io/d/IeWkNhpOlb-XOtnraI64co0k
